@@ -136,21 +136,4 @@ dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 . . . . f b e e b d b d b f . . 
 . . . . f f d 1 d 1 d 1 f f . . 
 . . . . . . f f b b f f . . . . 
-`</field></shadow></value><value name="kind"><shadow type="spritekind" id="NSB{Is~t[:CYA._jzKa="><field name="MEMBER">Princess</field></shadow></value></block></value><next><block type="hudSetLife" id="I|+ww!4H;IHevYULi/zj"><value name="value"><shadow type="math_number" id="GJBEL_x(X{zErGnj+E^q"><field name="NUM">5</field></shadow></value><next><block type="gamecountdown" id="Z~XgFNKNv=2aV.%$sL@#"><value name="duration"><shadow type="math_number" id="O2RwqZAp=!I1[(pP+!@A"><field name="NUM">121</field></shadow></value><next><block type="game_control_sprite" id="(p//k:nJC-(XOZQQJ?Mu"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="false"></mutation><value name="sprite"><block type="variables_get" id="x=^bd^fQ4qTb/~i!3kNa"><field name="VAR" id="R1;SNuCL0QAiSO2,5f_U">mySprite</field></block></value></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="tilemap_editor" id="M3]k|R[ScpX2[%~;l?mc" disabled="true" x="130" y="450"><field name="tilemap">tiles.createTilemap(hex`1000100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000`, img`
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-`, [myTiles.transparency16], TileScale.Sixteen)</field></block></xml>
+`</field></shadow></value><value name="kind"><shadow type="spritekind" id="NSB{Is~t[:CYA._jzKa="><field name="MEMBER">Princess</field></shadow></value></block></value><next><block type="hudSetLife" id="I|+ww!4H;IHevYULi/zj"><value name="value"><shadow type="math_number" id="GJBEL_x(X{zErGnj+E^q"><field name="NUM">5</field></shadow></value><next><block type="gamecountdown" id="Z~XgFNKNv=2aV.%$sL@#"><value name="duration"><shadow type="math_number" id="O2RwqZAp=!I1[(pP+!@A"><field name="NUM">121</field></shadow></value><next><block type="game_control_sprite" id="(p//k:nJC-(XOZQQJ?Mu"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="false"></mutation><value name="sprite"><block type="variables_get" id="x=^bd^fQ4qTb/~i!3kNa"><field name="VAR" id="R1;SNuCL0QAiSO2,5f_U">mySprite</field></block></value></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
